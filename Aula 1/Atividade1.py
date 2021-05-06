@@ -1,0 +1,7 @@
+x = int(input("Digite um número: "))
+print(x)
+print(x / 2)
+print(x ** 2)
+print(x ** 0.5)
+print(x ** x)
+print(x ** (1/x))
